@@ -16,10 +16,10 @@ Este é um sistema simples em Java para gerenciamento de materiais de biblioteca
 
 ## Funcionalidades
 
-- 📌 **Adicionar materiais** (livros ou revistas)
-- 🔍 **Pesquisar materiais** por título
-- 🗑️ **Excluir materiais**
-- 📋 **Listar todos os materiais cadastrados**
+- **Adicionar materiais** (livros ou revistas)
+- **Pesquisar materiais** por título
+- 🗑**Excluir materiais**
+- **Listar todos os materiais cadastrados**
 
 ---
 
@@ -33,3 +33,13 @@ Este é um sistema simples em Java para gerenciamento de materiais de biblioteca
 
 - Ao tentar excluir/pesquisar um material inexistente:  
   `"Não localizamos o material. Tente novamente"`
+  
+---
+
+## Como Executar
+
+1. Certifique-se de ter o **Java** instalado.
+2. Compile todos os arquivos `.java`:
+   ```bash
+   javac *.java
+3. Execute a classe Main.java
