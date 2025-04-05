@@ -43,3 +43,5 @@ Este é um sistema simples em Java para gerenciamento de materiais de biblioteca
    ```bash
    javac *.java
 3. Execute a classe Main.java
+   ```bash
+   java Main.java
