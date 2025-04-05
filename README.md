@@ -18,7 +18,7 @@ Este é um sistema simples em Java para gerenciamento de materiais de biblioteca
 
 - **Adicionar materiais** (livros ou revistas)
 - **Pesquisar materiais** por título
-- 🗑**Excluir materiais**
+- **Excluir materiais**
 - **Listar todos os materiais cadastrados**
 
 ---
